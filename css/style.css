@@ -123,7 +123,7 @@ html{
   }
   .tercera_seccion{
     width: 100%;
-    height: 450px;
+    height: auto;
   }
   .formulario_seccion{
     width: 100%;
@@ -389,7 +389,7 @@ html{
     height: 300px;
     padding: 0% 8% 0% 8%;
     min-height: 300px;
-    margin-top: 8%;
+    margin-top: 12%;
 
   }
   .div_img_proyectos{
@@ -409,6 +409,25 @@ html{
     padding: 5% 1% 1% 1%;
     margin-top: 55%;
     position: relative;
+  }
+  .div_maps{
+    text-align: center;
+    width: 100%;
+    padding-top: 1%;
+    padding-bottom: 3%;
+    margin-top: 11%;
+    margin-bottom: 2%;
+    background-color: rgba(61, 60, 60, 0.519) !important;;
+  }
+  .div_letra_maps{
+    width: 100%;
+    margin: 2% 0;
+    margin-bottom: 2%;
+    background-color: #e2e2e2;
+  }
+  .p_maps{
+    font-size: 22px;
+    color: #000000;
   }
   /*Formulario*/
   .div_form{
